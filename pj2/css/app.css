@@ -1,0 +1,9 @@
+.change {
+  display: block !important;
+}
+.xIcon {
+  display: block;
+  right: 0.75rem;
+  top: 50%;
+  transform: translateY(-50%);
+}
